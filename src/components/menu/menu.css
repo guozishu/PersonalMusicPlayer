@@ -1,0 +1,13 @@
+
+.menu_item {
+    padding: 16px;
+    .icon {
+        margin-right: 12px;
+    }
+    &:hover {
+        background-color: rgb(51 51 51 / 30%);
+    }
+}
+.actived {
+    background-color: rgb(51 51 51 / 30%);
+}
